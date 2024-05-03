@@ -1,0 +1,11 @@
+﻿  Apartment.cpp
+  Build.cpp
+  House.cpp
+  Lab1Estructura de Datos.cpp
+  Logica.cpp
+C:\Users\Ishai\source\repos\Lab2_Estruuctura-de-Datos_-Hector-FLores\Lab1Estructura de Datos\Logica.cpp(173,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Premises.cpp
+  Sector.cpp
+  Generating Code...
+  LINK : C:\Users\Ishai\source\repos\Lab2_Estruuctura-de-Datos_-Hector-FLores\x64\Debug\Lab1Estructura de Datos.exe not found or not built by the last incremental link; performing full link
+  Lab1Estructura de Datos.vcxproj -> C:\Users\Ishai\source\repos\Lab2_Estruuctura-de-Datos_-Hector-FLores\x64\Debug\Lab1Estructura de Datos.exe
